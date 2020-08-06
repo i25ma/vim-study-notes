@@ -45,5 +45,6 @@ di( 或者 di) 会删除当前行 小括号内的所有字符
 ```
 以上学习笔记均来自 极客时间 
 #  吴永伟老师专栏 《Vim实用技巧必知必会》
-[点击如下可以订阅]:http://gk.link/a/10kkz
+> 点击如下可以订阅: http://gk.link/a/10kkz
+
 ![avatar](vim_share.jpg)
